@@ -1,3 +1,5 @@
 *.md
 EstadosDeCuenta
 .venv
+programa_bien.code-workspace
+debug_output
